@@ -10,6 +10,7 @@ public class Class1Test {
 	@Test
 	public void class1() {
 		Reporter.log("*****************hey****************",true);
+		Reporter.log("*****************hey****************",true);
 		
 	}
 
